@@ -1,0 +1,15 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "1984",
+        "year": 1984,
+        "genre": "Fantasy"
+      },
+      {
+        "id": 2,
+        "title": "Brave New World",
+        "author": "Aldous Huxley"
+      }
+    ]
+  }
